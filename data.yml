@@ -1,0 +1,6 @@
+columns: [Name, Gender, Occupation, Age]
+rows:
+- [Jon, Male, Teacher, 59]
+- [Tim, Male, Analyst, 43]
+- [Rick, Male, Electrician, 51]
+- [Lacey, Female, Data Scientist, 35]

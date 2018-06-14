@@ -1,0 +1,6 @@
+columns: [Name, Gender, Occupation, Age]
+records:
+- {Age: 59, Gender: Male, Name: Jon, Occupation: Teacher}
+- {Age: 43, Gender: Male, Name: Tim, Occupation: Analyst}
+- {Age: 51, Gender: Male, Name: Rick, Occupation: Electrician}
+- {Age: 35, Gender: Female, Name: Lacey, Occupation: Data Scientist}
